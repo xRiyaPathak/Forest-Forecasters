@@ -1,4 +1,4 @@
-** Forest Forecasters **
+**Forest Forecasters**
 
 1.)Please read FF_SwanTeleco_pt1.ipynb first. This will include the EDA, Data Cleaning, Train-Test Splitting and our Logistic Regression. This document will also include our predictions based on our final Logistic Regression Model.
 
